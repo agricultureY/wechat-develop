@@ -3,6 +3,7 @@
    包含微信开发基本接口和百度翻译的接口
 
 启动需配置：
+    
     1、数据库配置 -- application.yml
     2、redis配置 -- application.yml、RedisProperties.java
     3、微信token配置 -- application.yml   与微信公众平台token一致
